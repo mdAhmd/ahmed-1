@@ -1,10 +1,10 @@
 /* Configure your real contact details and social links below before publishing. */
 const SITE_CONFIG = {
-  whatsappNumber: "", // International format, digits only. Example: 919876543210
-  email: "",          // Example: hello@yourdomain.com
-  linkedin: "",
-  instagram: "",
-  github: ""
+  whatsappNumber: "917869231186", // International format, digits only. Example: 919876543210
+  email: "mohdahmedraza02@gmail.com",          // Example: hello@yourdomain.com
+  linkedin: "https://www.linkedin.com/in/mohdahmedd/ ",
+  instagram: "https://www.instagram.com/ahmedophy/",
+  github: "https://github.com/mdAhmd"
 };
 
 const headerLinks = document.querySelectorAll('.main-nav a[data-nav]');
